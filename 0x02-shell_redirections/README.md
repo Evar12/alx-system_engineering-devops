@@ -3,3 +3,4 @@
 2 - A script to display the content of the /etc/passwd file
 3 - To Display the content of /etc/passwd and /etc/hosts
 4 - To display the last 10 lines of /etc/passwd
+5 - To Display the first 10 lines of /etc/passwd
